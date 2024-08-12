@@ -1,0 +1,12 @@
+{
+    "identifier": "com.jahv.bobplugin.nothing",
+    "version": "0.0.1",
+    "category": "translate",
+    "name": "nothing",
+    "summary": "该插件什么都不会做，只按照输入的方式输出",
+    "icon": "001",
+    "author": "jahv",
+    "homepage": "https://github.com/jahv/bobplugin-nothing",
+    "minBobVersion": "0.5.0",
+    "options": []
+}
